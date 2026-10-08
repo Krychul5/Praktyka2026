@@ -1,0 +1,19 @@
+# Dane dostępowe i konfiguracja lokalna
+.env
+config.local.php
+
+# Pliki środowiska i zależności
+vendor/
+node_modules/
+
+# Pliki edytorów i systemu
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logi, cache i pliki przesyłane lokalnie
+*.log
+cache/
+uploads/
+
